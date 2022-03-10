@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".github/images/aru.png" width="150px"/>
+    <img src="la nako chikita.png" width="150px"/>
     <h1>
         Hello World! I'm <a href="https://github.com/Kopfsalaat">Kopfsalaat</a>
     </h1>
