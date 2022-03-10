@@ -13,7 +13,8 @@
         About me
     </h2>
     <p>
-        no c
+        Hi!! Chunchunmaru here. Protector and lover of the unloved 🐸🐊🐍 (and the loved 🐶🦆🦊). I like anime and viedogames
+        phrog 𓆏
     </p>
 </div>
 
