@@ -22,3 +22,6 @@
     <a href="https://www.instagram.com/chunchunmaaru._/?hl=es-la" target="_blank"><img src="https://img.icons8.com/color/64/000000/instagram-new--v1.png"/></a>
     <a href="https://twitter.com/Kopfsalat7" target="_blank"><img src="https://img.icons8.com/color/64/000000/twitter--v1.png"/></a>
 </div>
+<div align="center">
+    <h3 align="center">Language and Software</h3>
+</div>
