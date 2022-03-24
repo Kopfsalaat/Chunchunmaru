@@ -6,7 +6,7 @@
 </div>
 <div align="center">
     <img alt="Kopfsalaat's Stats" src="https://github-readme-stats.vercel.app/api?username=Kopfsalaat&count_private=true&theme=dark&hide_border=true&show_icons=true&locale=en" align="center" height="165px"/>
-    <img alt="Kopfsalaat's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopfsalaat&hide=html&theme=dark&hide_border=true&layout=compact" align="center" height="165px"/>
+    <img alt="Kopfsalaat's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kopfsalaat&hide=html&theme=dark&hide_border=true&layout=compact" align="center" height="165px" width="200px"/>
 </div>
 <div align="center">
     <h2>
