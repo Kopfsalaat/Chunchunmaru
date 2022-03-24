@@ -26,7 +26,7 @@
 </div>
 <div align="center">
     <h3 align="center">Language and Software</h3>
-    <img src="https://img.icons8.com/?id=121111&size=2x&color=000000" height="50px"/>
+    <img src="https://img.icons8.com/?id=121111&size=2x&color=000000" height="100px"/>
     <img src="https://img.icons8.com/?id=121464&size=2x&color=000000"/>
     <img src="https://img.icons8.com/?id=46630&size=2x&color=000000"/>
     <img src="https://img.icons8.com/?id=46605&size=2x&color=000000"/>
