@@ -20,7 +20,7 @@
 <div align="center">
     <h3 align="center">Social Media:</h3>
     <a href="https://www.instagram.com/chunchunmaaru._/?hl=es-la" target="_blank"><img src="https://img.icons8.com/?id=42819&size=2x&color=000000" height="70px"/></a>
-    <a href="https://twitter.com/Kopfsalat7" target="_blank"><img src="https://img.icons8.com/?id=104322&size=2x&color=000000" height="100px"/></a>
+    <a href="https://twitter.com/Kopfsalat7" target="_blank"><img src="https://img.icons8.com/?id=104322&size=2x&color=000000" height="70px"/></a>
     <a href="https://www.facebook.com/josefiitahbull.flores" target="_blank"><img src="https://img.icons8.com/?id=42804&size=2x&color=000000" height="70px"/></a>
     <a href="https://www.pinterest.cl/josefitahd/_created" target="_blank"><img src="https://img.icons8.com/?id=43180&size=2x&color=000000" height="70px"/></a>
 </div>
